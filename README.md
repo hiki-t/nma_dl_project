@@ -26,5 +26,9 @@ Click on "Download ZIP" to download the entire repository as a ZIP file.
 ## noetbooks 
 contains jupyter notebooks
 you can save as colab by clicking open in colab and saving to google drive or other
+
+## scripts
+stand alone scripts for one off things 
+
 ## images (not data)
 for notetaking and docs in notebooks
